@@ -119,6 +119,7 @@
   font-style: normal;
   font-weight: 600;
   line-height: 20px;
+  text-transform: uppercase;
 }
 .content {
   position: absolute;
@@ -190,4 +191,5 @@
   font-style: normal;
   font-weight: 600;
   line-height: 7.865px;
+  text-transform: uppercase;
 }

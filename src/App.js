@@ -61,6 +61,58 @@ function App() {
         },
       ],
     },
+    data: [
+      {
+        name: "CW",
+        color: "#fff",
+        background: "#7F56D9",
+        border: "12px solid #DBD4F1",
+      },
+      {
+        name: "ZP",
+        color: "#fff",
+        background: "#444CE7",
+        border: "12px solid #DADBFA",
+      },
+      {
+        name: "BZ",
+        color: "#fff",
+        background: "#155EEF",
+        border: "12px solid #D0DFFC",
+      },
+
+      {
+        name: "RT",
+        color: "#fff",
+        background: "#155EEF",
+        border: "12px solid #D0DFFC",
+      },
+      {
+        name: "BV",
+        color: "#fff",
+        background: "#0086C9",
+        border: "12px solid #C6E1F0",
+      },
+      {
+        name: "Mk",
+        color: "#fff",
+        background: "#0086C9",
+        border: "12px solid #C6E1F0",
+      },
+      {
+        name: "UV",
+        color: "#fff",
+        background: "#0E9384",
+        border: "12px solid #CFE9E6",
+      },
+
+      {
+        name: "AP",
+        color: "#fff",
+        background: "#0E9384",
+        border: "12px solid #CFE9E6",
+      },
+    ],
     yesterday: {
       title: "Yesterday",
       titleColor: "#fff",
@@ -209,58 +261,6 @@ function App() {
         },
       ],
     },
-    data: [
-      {
-        name: "CW",
-        color: "#fff",
-        background: "#7F56D9",
-        border: "12px solid #DBD4F1",
-      },
-      {
-        name: "ZP",
-        color: "#fff",
-        background: "#444CE7",
-        border: "12px solid #DADBFA",
-      },
-      {
-        name: "AP",
-        color: "#fff",
-        background: "#099250",
-        border: "12px solid #CEE9DC",
-      },
-
-      {
-        name: "AP",
-        color: "#fff",
-        background: "#099250",
-        border: "12px solid #CEE9DC",
-      },
-      {
-        name: "AP",
-        color: "#fff",
-        background: "#099250",
-        border: "12px solid #CEE9DC",
-      },
-      {
-        name: "AP",
-        color: "#fff",
-        background: "#099250",
-        border: "12px solid #CEE9DC",
-      },
-      {
-        name: "AP",
-        color: "#fff",
-        background: "#099250",
-        border: "12px solid #CEE9DC",
-      },
-
-      {
-        name: "AP",
-        color: "#fff",
-        background: "#099250",
-        border: "12px solid #CEE9DC",
-      },
-    ],
   });
 
   return (
